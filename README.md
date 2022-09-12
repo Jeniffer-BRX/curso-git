@@ -5,5 +5,5 @@
 Por favor instale:
 
 ```
-npm install nodejs
+node app.js
 ```
